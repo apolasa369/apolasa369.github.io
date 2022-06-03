@@ -64,11 +64,11 @@ body a:hover{
     margin: 0 0 0 0em;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-    color: #031412;
+    color: #346142;
     background-color: transparent;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #031412;
+    color: #346142;
     background-color: transparent;
 }
 /*-- nav-hover-effect --*/
