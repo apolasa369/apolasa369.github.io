@@ -43,8 +43,8 @@ body a:hover{
     text-transform: uppercase;
     line-height: .7em;
     letter-spacing: 5px;
-    border: none;
-	margin: none;
+    border: 1.5px solid;
+	margin:0.44em 0 0;
 }
 .navbar-default .navbar-brand {
     color: #000000;
