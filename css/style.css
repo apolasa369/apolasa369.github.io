@@ -978,7 +978,7 @@ ul.footer-grid-list li span{
 .pa_italic i,.collapsed span {
     left: 41em;
     font-size: 0.7em;
-    color: #212121;
+    color: #346142;
 }
 .collapsed i {
     display: none;
@@ -1003,7 +1003,7 @@ ul.footer-grid-list li span{
 	text-decoration:none;
 }
 .about-grids-left h4 a:hover{
-	color:#212121;
+	color:#031412;
 }
 .panel-heading-sub {
     padding:1em 0;
