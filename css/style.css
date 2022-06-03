@@ -44,7 +44,7 @@ body a:hover{
     line-height: .9em;
     letter-spacing: 5px;
     border: none;
-	margin:0.44em 0 0;
+	margin: none;
 }
 .navbar-default .navbar-brand {
     color: #212121;
@@ -61,7 +61,7 @@ body a:hover{
 	padding:1em;
 }
 .navbar-nav {
-    margin: 0 0 0 7em;
+    margin: 0 0 0 9em;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color: #346142;
