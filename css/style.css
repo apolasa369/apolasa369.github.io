@@ -53,7 +53,7 @@ body a:hover{
     color: #031412;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #999;
+    color: #FFFFFF;
 }
 .navbar-nav > li > a {
     font-size: 14px;
@@ -208,7 +208,7 @@ body a:hover{
     border-left: 1px solid #C8C8C8;
 }
 .phone p{
-	color:#999;
+	color:#FFFFFF;
 	text-transform:capitalize;
 }
 .phone p i {
@@ -316,7 +316,7 @@ body a:hover{
 }
 .services h3:after,.testimonials h3:after,.about h3:after,.gallery h3:after,.mail h3:after,.team h3:after,.pricing-plans h3:after,h3.title:after{
 	content: '';
-    background: #999;
+    background: #FFFFFF;
     width: 30%;
     height: 1px;
     position: absolute;
@@ -334,7 +334,7 @@ body a:hover{
 }
 p.qui{
 	text-align:center;
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 	margin:1em 0 0 !important;
 	font-weight: 500 !important;
@@ -343,7 +343,7 @@ p.qui{
 	margin:4em 0 0;
 }
 .services-grids-left{
-	border-right:1px solid #999;
+	border-right:1px solid #FFFFFF;
 }
 .services-grids-left-grids{
 	padding-right:5em;
@@ -359,13 +359,13 @@ p.qui{
 	text-align:right;
 }
 .services-grids-left-grid p{
-	color: #999;
+	color: #FFFFFF;
     line-height: 1.8em;
     margin:1em 0 0 0;
 }
 .services-grids-left-grid h5{
 	font-size:16px;
-	color:#999;
+	color:#FFFFFF;
 	margin:0 0 0.5em;
 }
 .services-grids-left-grid1{
@@ -392,7 +392,7 @@ p.qui{
     width: 100px;
     height: 100px;
     padding: .5em;
-    border: 1px solid #999;
+    border: 1px solid #FFFFFF;
     border-radius: 50%;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -405,7 +405,7 @@ p.qui{
 	width:100px;
 	height:100px;
 	padding: .5em;
-    border: 1px solid #999;
+    border: 1px solid #FFFFFF;
     border-radius: 50%;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -418,7 +418,7 @@ p.qui{
 	width:100px;
 	height:100px;
 	padding: .5em;
-    border: 1px solid #999;
+    border: 1px solid #FFFFFF;
     border-radius: 50%;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -436,13 +436,13 @@ p.qui{
 }
 .service-grids-bottom{
 	padding:2em;
-	border:1px solid #999;
+	border:1px solid #FFFFFF;
 	width:70%;
 	margin:0 auto;
 }
 .service-grids-bottom h2{
 	font-size: 1.3em;
-    color: #999;
+    color: #FFFFFF;
     line-height: 1.8em;
     position: relative;
     padding-left: 3em;
@@ -547,7 +547,7 @@ p.qui{
 .nav-tabs > li > a {
     border-radius: 0;
     font-size: 1em;
-    color: #999;
+    color: #FFFFFF;
 	font-family: 'Oswald', sans-serif;
 	letter-spacing:1px;
 }
@@ -598,7 +598,7 @@ div#myTabContent {
     font-weight: 500;
 }
 .tabcontent-grids p{
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 	width:60%;
 	margin:0 auto;
@@ -643,7 +643,7 @@ div#myTabContent {
 	left:0%;
 }
 .footer-grid p{
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 	margin:0 0 1em;
 }
@@ -785,7 +785,7 @@ input[type="submit"],.related-post-right h4 a,.categories ul li a,.popular-posts
 }
 ul.footer-grid-list li{
 	font-size: 16px;
-    color: #999;
+    color: #FFFFFF;
     line-height: 1.8em;
     padding-left: 2.5em;
     background:url(../images/img-sp.png) no-repeat -193px -124px;
@@ -819,7 +819,7 @@ ul.footer-grid-list li span{
 	margin-right:2em;
 }
 .footer-grids1-left ul li a{
-	color:#999;
+	color:#FFFFFF;
 	font-size:16px;
 	text-decoration:none;
 }
@@ -827,7 +827,7 @@ ul.footer-grid-list li span{
 	color:#fff;
 }
 .footer-grids1-right p{
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 }
 .footer-grids1-right{
@@ -988,7 +988,7 @@ ul.footer-grid-list li span{
 }
 .panel_text {
     font-size: 16px;
-    color: #999;
+    color: #FFFFFF;
     line-height: 1.8em;
 }
 .about-grids-left h4 {
@@ -1063,7 +1063,7 @@ ul.footer-grid-list li span{
     margin: 3em auto 0;
     text-align: center;
     line-height: 1.8em;
-    color: #999;
+    color: #FFFFFF;
 }
 /*-- //team --*/
 /*-- pricing-plans --*/
@@ -1101,13 +1101,13 @@ ul.footer-grid-list li span{
 }
 .pricing-plans-grid1 ul li{
 	font-size:16px;
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 	margin-bottom:1em;
 	list-style-type:none;
 }
 .pricing-plans-grid1:hover{
-	background:#999;
+	background:#FFFFFF;
 }
 .pricing-plans-grid1:hover h4{
 	color:#fff;
@@ -1160,7 +1160,7 @@ li.list-group-item1 {
 	margin-bottom: 1em;
 }
 .grid_3 p{
-  color: #999;
+  color: #FFFFFF;
   font-size: 0.85em;
   margin-bottom: 1em;
   font-weight: 300;
@@ -1227,7 +1227,7 @@ section#tables  p {
 }
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
   font-size: 0.9em;
-  color: #999;
+  color: #FFFFFF;
   border-top: none !important;
 }
 .tab-content > .active {
@@ -1535,30 +1535,30 @@ ul.phone-mail {
 	float:right;
 }
 .single-grid-left-grid1-right p{
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 	line-height:1.8em;
 }
 p.fugiat{
 	margin:2em 0;
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 }
 .single-grid-left-grid1 ul{
 	padding:1em 0;
-	border-top:1px solid #999;
-	border-bottom:1px solid #999;
+	border-top:1px solid #FFFFFF;
+	border-bottom:1px solid #FFFFFF;
 }
 .single-grid-left-grid1 ul li{
 	font-size: 16px;
-    color: #999;
+    color: #FFFFFF;
     margin-left: 1em;
 	margin-right:2em;
     list-style-type: none;
     display: inline-block;
 }
 .single-grid-left-grid1 ul li a{
-	color:#999;
+	color:#FFFFFF;
 	text-decoration:none;
 }
 .single-grid-left-grid1 ul li a span,.single-grid-left-grid1 ul li span{
@@ -1600,7 +1600,7 @@ p.fugiat{
 	color:#212121;
 }
 .popular-posts-grid1 p{
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 	text-align: center;
 }
@@ -1636,7 +1636,7 @@ p.fugiat{
     text-transform: capitalize;
 }
 .author-grid-right p{
-	color:#999;
+	color:#FFFFFF;
 	line-height:1.8em;
 	margin:2em 0 1em;
 }
@@ -1678,7 +1678,7 @@ p.fugiat{
     outline: none;
     width: 100%;
     background: none;
-    color: #999;
+    color: #FFFFFF;
     padding: 10px;
 	margin:0 0 1em;
     font-size: 16px;
@@ -1706,11 +1706,11 @@ p.fugiat{
     display: block;
     padding-left: 3em;
     margin: 1.5em 0;
-    color: #999;
+    color: #FFFFFF;
     font-size: 16px;
 }
 .categories ul li a {
-	color: #999;
+	color: #FFFFFF;
 	text-decoration:none;
 	letter-spacing:1px;
 }
@@ -1758,7 +1758,7 @@ p.fugiat{
 	color:#000;
 }
 .related-post-right p {
-	color: #999;
+	color: #FFFFFF;
     font-style: normal;
     line-height: 1.8em;
 	margin:1em 0;
@@ -1909,7 +1909,7 @@ p.fugiat{
 	}
 	.services-grids-right-grids {
 		padding: 0em 5em 5em 0;
-		border-right: 1px solid #999;
+		border-right: 1px solid #FFFFFF;
 	}
 	.services-grids-left-grid2-pos {
 		left: 104.5%;
