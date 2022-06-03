@@ -47,10 +47,10 @@ body a:hover{
 	margin: none;
 }
 .navbar-default .navbar-brand {
-    color: #212121;
+    color: #000000;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-    color: #212121;
+    color: #000000;
 }
 .navbar-default .navbar-nav > li > a {
     color: #FFFFFF;
