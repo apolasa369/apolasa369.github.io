@@ -753,7 +753,7 @@ a.p:hover i{
     display: block;
 }
 a.link i{
-        background:url(../images/img-sp.png) no-repeat -113px -159px;
+        background:url(../images/img-sp.png) no-repeat -153px -160px;
     display: block;
     width: 30px;
     height: 30px;
@@ -764,7 +764,7 @@ a.link i{
         -ms-transition: 0.5s ease-in;
 }
 a.link:hover i{
-        background:url(../images/img-sp.png) no-repeat -113px -199px;
+        background:url(../images/img-sp.png) no-repeat -153px -200px;
     display: block;
 }
 /*-- //social-icons --*/
