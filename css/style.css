@@ -764,7 +764,7 @@ a.link i{
         -ms-transition: 0.5s ease-in;
 }
 a.link:hover i{
-        background:url(../images/img-sp.png) no-repeat -149px -200px;
+        background:url(../images/img-sp.png) no-repeat -149px -201px;
     display: block;
 }
 /*-- //social-icons --*/
